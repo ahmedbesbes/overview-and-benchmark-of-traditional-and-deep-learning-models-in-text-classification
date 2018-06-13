@@ -22,3 +22,7 @@ Here are the models that have been tested:
 - Recurrent neural network (bidirectional GRU) with GloVe pre-trained embeddings
 - Multi channel Convolutional Neural Network
 - RNN (Bidirectional GRU) + CNN model
+
+and here's a sneak peak of the final result:
+
+!(./images/article_5/)
