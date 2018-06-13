@@ -25,4 +25,4 @@ Here are the models that have been tested:
 
 and here's a sneak peak of the final result:
 
-![./images/article_5/benchmark.png]
+![images/article_5/benchmark.png]
