@@ -13,3 +13,12 @@ We'll go through different models: from simple ones relying on a bag-of-word rep
 
 ----------
 
+Here are the models that have been tested:
+
+- Logistic regression with word ngrams
+- Logistic regression with character ngrams
+- Logistic regression with word and character ngrams
+- Recurrent neural network (bidirectional GRU) without pre-trained embeddings
+- Recurrent neural network (bidirectional GRU) with GloVe pre-trained embeddings
+- Multi channel Convolutional Neural Network
+- RNN (Bidirectional GRU) + CNN model
