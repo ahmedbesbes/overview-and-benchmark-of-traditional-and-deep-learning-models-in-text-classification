@@ -1,6 +1,6 @@
 # Overview and benchmark of traditional and deep learning models in text classification
 
-original post: https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html
+Original post: https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html
 
 This article is an extension of a previous one I wrote when I was experimenting sentiment analysis on twitter data. Back in the time, I explored a simple model: a two-layer feed-forward neural network trained on keras. The input tweets were represented as document vectors resulting from a weighted average of the embeddings of the words composing the tweet.
 
