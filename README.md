@@ -10,7 +10,6 @@ The goal of this post is to explore other NLP models trained on the same dataset
 
 We'll go through different models: from simple ones relying on a bag-of-word representation to a heavy machinery deploying convolutional/recurrent networks: We'll see if we'll score more than 79% accuracy!
 
-
 ----------
 
 Here are the models that have been tested:
@@ -23,6 +22,8 @@ Here are the models that have been tested:
 - Multi channel Convolutional Neural Network
 - RNN (Bidirectional GRU) + CNN model
 
-and here's a sneak peak of the final result:
+By the end of this post, you will have a boilerplate code for each of these NLP techniques. It'll help you kickstart your NLP project and eventually achieve state-of-the art results (some of these models are really powerful).
+
+Here's a sneak peak of the final result:
 
 ![benchmark](images/article_5/benchmark.png)
